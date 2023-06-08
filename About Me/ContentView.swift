@@ -53,7 +53,7 @@ struct ContentView: View {
 
                 }
                 .buttonStyle(.borderedProminent)
-    //            .tint()
+                .tint(Color("darkBlue"))
                 .padding()
             
                 Text(facts)
